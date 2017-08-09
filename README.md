@@ -1,4 +1,4 @@
-# Stemmer
+# Stemmer [![Build Status](https://travis-ci.org/hugoabonizio/stemmer.cr.svg?branch=master)](https://travis-ci.org/hugoabonizio/stemmer.cr)
 
 Stemmer shard for Crystal that uses [Porter stemming algorithm](https://tartarus.org/martin/PorterStemmer/).
 
