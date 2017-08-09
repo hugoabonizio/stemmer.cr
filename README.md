@@ -42,3 +42,5 @@ require "stemmer"
 ## Contributors
 
 - [hugoabonizio](https://github.com/hugoabonizio) Hugo Abonizio - creator, maintainer
+
+This Crystal code was based on [stemmify](https://github.com/raypereda/stemmify) Ruby gem, so thanks to its [contributors](https://github.com/raypereda/stemmify/graphs/contributors).
